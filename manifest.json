@@ -1,0 +1,14 @@
+{
+  "name": "Facturas Bosque Conectado",
+  "short_name": "Facturas",
+  "description": "Gestión de facturas de autónomo",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d0f0c",
+  "theme_color": "#0d0f0c",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "ICONS/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "ICONS/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
